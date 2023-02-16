@@ -1,7 +1,7 @@
 - 👋 Olá, me chamo @MarlonMagagnin. Bem vindo ao meu perfil.
 - 🌱 Sou recem formado em Engenharia de Software e buscado me aprimorar cada vez mais.
 - 👀 Estou interresado em buscas novos conhecimentos e crescimento profissional e pessoal.
-- 🌱 Atualmente estou aprendendo Lógica de Programação e introdução a algumas linguagens de programação.
+- 🌱 Atualmente estou programando em Java.
 - 📫 Contato: magagnin7@gmail.com
 
 <!---
